@@ -10,3 +10,17 @@ code --install-extension {extension id}
 code --uninstall-extension {extension id}
 code --disable-extensions
 ```
+
+## Install extensions
+
+# first installation
+
+```bash
+chmod +x ./install_extensions.sh
+```
+
+# usage
+
+```sh
+./install_extensions.sh
+```
