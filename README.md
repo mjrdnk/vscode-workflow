@@ -13,13 +13,13 @@ code --disable-extensions
 
 ## Install extensions
 
-# first installation
+### first installation
 
 ```bash
 chmod +x ./install_extensions.sh
 ```
 
-# usage
+### usage
 
 ```sh
 ./install_extensions.sh
