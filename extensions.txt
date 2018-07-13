@@ -1,0 +1,9 @@
+CoenraadS.bracket-pair-colorizer
+DSKWRK.vscode-generate-getter-setter
+eamodio.gitlens
+eg2.tslint
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+mrorz.language-gettext
+ms-vsliveshare.vsliveshare
+vincaslt.highlight-matching-tag
